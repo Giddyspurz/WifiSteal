@@ -1,5 +1,5 @@
 # WifiSteal
-A Tool to thats steals Wifi Info from Victims and Emails The Credentials to the Attacker
+A Tool thats steals Wifi Info from Victims and Emails The Credentials to the Attacker
 
 Add your Email & Email Password in The Script
 
