@@ -1,3 +1,9 @@
+######################
+#!/usr/bin/python
+#Author:Giddyspurz
+#Feel free to modify the script
+######################
+
 import subprocess
 import smtplib
 import re
